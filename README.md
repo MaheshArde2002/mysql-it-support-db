@@ -26,10 +26,8 @@ The main objectives of this project are:
 - Ubuntu Linux
 - MySQL Server
 - SQL
-- Bash Shell
 - systemd
 - mysqldump
-- cron
 - Git & GitHub
 
 ## Repository Structure
